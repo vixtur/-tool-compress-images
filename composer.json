@@ -1,0 +1,13 @@
+{
+    "name": "viktor/optimize",
+    "authors": [
+        {
+            "name": "viktorrusin",
+            "email": "vix@daotech.ru"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "spatie/image-optimizer": "^1.0"
+    }
+}
